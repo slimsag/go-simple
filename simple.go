@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	mux "gitolite.aws.sgdev.org/gorilla/mux.git"
+	mux "gitolite.aws.sgdev.org/mux.git"
 )
 
 // Router is a router from gorilla/mux
