@@ -10,5 +10,6 @@ import (
 type Router struct{ mux.Router }
 
 func main() {
+	var x = mux.Router{}
 	fmt.Println("hello world")
 }
